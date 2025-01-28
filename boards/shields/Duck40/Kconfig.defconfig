@@ -1,0 +1,6 @@
+if SHIELD_DUCK40
+
+config ZMK_KEYBOARD_NAME
+    default "Duck40"
+
+    endif
